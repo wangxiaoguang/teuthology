@@ -8,7 +8,7 @@ ceph:
   - ceph-test
   - radosgw
   - python-ceph
-  - libcephfs1
+  - libcephfs2
   - libcephfs-java
   - libcephfs-jni
   - librados2
